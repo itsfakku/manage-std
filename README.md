@@ -6,7 +6,6 @@ Phần mềm quản lý học sinh và khóa học do nhóm mình làm, tính n�
 
 < <b> Tính năng </b> >
 
-    <br>
 ![image](https://user-images.githubusercontent.com/69498553/130316689-7ba332a8-2ab8-4abe-a629-07d6efdcec0d.png)
     <br><br><br><br>
 ![image](https://user-images.githubusercontent.com/69498553/130316697-ae6b7476-c82f-47e6-8901-f5980fc161e9.png)
